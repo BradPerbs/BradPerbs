@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" style="vertical-align:top; margin:4px">
 </div>
 
 ### 📈 My GitHub Stats:
