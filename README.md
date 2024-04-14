@@ -20,7 +20,7 @@
 
 <div>
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://vuejs.org/images/logo.svg" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://vuejs.org/logos/logo.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://vitejs.dev/logo.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="vertical-align:top; margin:4px">
