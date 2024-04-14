@@ -13,14 +13,14 @@
 - 🔭 I’m currently working on amazing projects using Vue.js.
 - 🌱 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💬 Ask me about Vue.js, JavaScript, or any tech-related stuff.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I play games and go to the gym very often.
+- 📫 How to reach me: [bradperbs@gmail.com](mailto:bradperbs@gmail.com)
+- ⚡ Fun fact: I play League Of Legends and go to the gym very often.
 
 ### 🛠 Languages and Tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/vue/vue.png" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50" style="vertical-align:top; margin:4px">
@@ -30,11 +30,11 @@
 
 ### 📈 My GitHub Stats:
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradPerbs&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=BradPerbs&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🌐 Socials:
 
