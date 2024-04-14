@@ -1,4 +1,4 @@
-<h1 align="center">Sup 👋</h1>
+<h1 align="center">Sup, BPx33 Here 👋</h1>
 
 <h2 align="center">Front End Developer and Tech Nerd</h2>
 
