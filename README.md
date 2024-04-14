@@ -1,17 +1,13 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Sup 👋</h1>
 
-<h2 align="center">A Passionate Vue.js Developer and Tech Geek</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150">
-</p>
+<h2 align="center">Front End Developer and Tech Nerd</h2>
 
 ---
 
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on amazing projects using Vue.js.
-- 🌱 I’m currently learning everything about Frontend and Backend technologies 😅
+- 🌱 I’m currently building multiple SaaS
 - 💬 Ask me about Vue.js, JavaScript, or any tech-related stuff.
 - 📫 How to reach me: [bradperbs@gmail.com](mailto:bradperbs@gmail.com)
 - ⚡ Fun fact: I play League Of Legends and go to the gym very often.
@@ -38,13 +34,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=BradPerbs&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-### 🌐 Socials:
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="your-twitter" height="30" width="40" /></a>
-</p>
-
 ---
 
-⭐ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐ From [BPx33](https://github.com/BradPerbs)
