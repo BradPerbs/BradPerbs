@@ -1,13 +1,10 @@
-<h1 align="center">Sup, BPx33 Here 👋</h1>
-
-<h2 align="center">Front End Developer and Tech Nerd</h2>
+<h2 align="center">👋, I'm a SaaS builder</h2>
 
 ---
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on amazing projects using Vue.js.
-- 🌱 I’m currently building multiple SaaS
+- 🌱 I’m currently working on multiple SaaS projects using Vue.js & GoLang.
 - 💬 Ask me about Vue.js, JavaScript, or any tech-related stuff.
 - 📫 How to reach me: [bradperbs@gmail.com](mailto:bradperbs@gmail.com)
 - ⚡ Fun fact: I play League Of Legends and go to the gym very often.
@@ -28,10 +25,3 @@
 ### 📈 My GitHub Stats:
 <img src="https://myreadme.vercel.app/api/embed/BradPerbs?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-### 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=BradPerbs&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-⭐ From [BPx33](https://github.com/BradPerbs)
