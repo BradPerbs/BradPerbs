@@ -5,7 +5,7 @@
 ### 🧐 More About Me:
 
 - 🌱 I’m currently working on multiple SaaS projects using Vue.js & GoLang.
-- 💬 Ask me about Vue.js, JavaScript, or any tech-related stuff.
+- 💬 Let's talk about Business Ideas or any tech-related stuff.
 - 📫 How to reach me: [bradperbs@gmail.com](mailto:bradperbs@gmail.com)
 - ⚡ Fun fact: I play League Of Legends and go to the gym very often.
 
