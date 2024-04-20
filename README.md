@@ -26,7 +26,7 @@
 </div>
 
 ### 📈 My GitHub Stats:
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BradPerbs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradPerbs&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies:
