@@ -17,9 +17,7 @@
   <img src="https://raw.githubusercontent.com/vuejs/art/a1c78b74569b70a25300925b4eacfefcc143b8f6/logo.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://vitejs.dev/logo.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" height="50" style="vertical-align:top; margin:4px">
 </div>
 
 ### 📈 My GitHub Stats:
