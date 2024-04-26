@@ -1,6 +1,4 @@
-<h2 align="center">👋, I'm a SaaS builder</h2>
 
----
 
 ### 🧐 More About Me:
 
