@@ -1,13 +1,12 @@
 
 
-### 🧐 More About Me:
+### To Fill Your Curiosity:
 
 - 🌱 I’m currently working on multiple SaaS projects using Vue.js & GoLang.
 - 💬 Let's talk about Business Ideas or any tech-related stuff.
 - 📫 How to reach me: [bradperbs@gmail.com](mailto:bradperbs@gmail.com)
-- ⚡ Fun fact: I play League Of Legends and go to the gym very often.
 
-### 🛠 Languages and Tools:
+### Stack:
 
 <div>
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50" style="vertical-align:top; margin:4px">
@@ -19,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" height="50" style="vertical-align:top; margin:4px">
 </div>
 
-### 📈 My GitHub Stats:
+### Stats:
 <img src="https://myreadme.vercel.app/api/embed/BradPerbs?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BradPerbs)](https://git.io/streak-stats)
