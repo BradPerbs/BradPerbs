@@ -5,9 +5,6 @@
 - :shipit: I’m currently working on multiple SaaS projects using Vue.js & GoLang.
 - 💬 Let's talk about Business Ideas or any tech-related stuff.
 - 📲 How to reach me: [bradperbs@gmail.com](mailto:bradperbs@gmail.com)
-- 
-### Objective:
-Creating successful SaaS platforms and share useful components and tools I use to do that.
 
 ### Stack:
 
