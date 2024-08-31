@@ -20,8 +20,4 @@
 
 </div>
 
-### Stats:
-<img src="https://myreadme.vercel.app/api/embed/BradPerbs?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BradPerbs)](https://git.io/streak-stats)
 
