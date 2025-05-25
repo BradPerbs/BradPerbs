@@ -17,7 +17,7 @@
   <img src="https://bun.sh/logo.svg" height="50" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" height="50" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/convex.svg" height="50" style="vertical-align:top; margin:4px">
+   <img src="https://img.stackshare.io/service/41143/default_f1d33b63d360437ba28c8ac981dd68d7d2478b22.png" height="50" style="vertical-align:top; margin:4px">
 
 </div>
 
